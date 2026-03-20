@@ -1,30 +1,27 @@
+<a href="https://roger.nealix.org">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75709&height=200&section=header&text=Roger%20Gnanih&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20%7C%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</a>
+
 <div align="center">
 
-<!-- BANNIÈRE ANIMÉE -->
 <a href="https://roger.nealix.org">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=Roger%20Gnanih&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20%7C%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75709&center=true&vCenter=true&width=750&lines=Je+d%C3%A9veloppe%2C+j'entreprends%2C+je+forme.;Fullstack+Dev+%E2%80%94+Remote+depuis+le+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF;Laravel+%C2%B7+Flutter+%C2%B7+Angular+%C2%B7+Kotlin;Cybers%C3%A9curit%C3%A9+CSIRT+%C2%B7+Agents+IA+%C2%B7+Mobile+Money" alt="Typing SVG"/>
 </a>
 
-<!-- TYPING ANIMATION -->
-<a href="https://roger.nealix.org">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1A56DB&center=true&vCenter=true&width=750&lines=Je+d%C3%A9veloppe%2C+j'entreprends%2C+je+forme.;Fullstack+Dev+%E2%80%94+Remote+depuis+le+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF;Laravel+%C2%B7+Flutter+%C2%B7+Angular+%C2%B7+Kotlin;Cybers%C3%A9curit%C3%A9+CSIRT+%C2%B7+Agents+IA+%C2%B7+Mobile+Money" alt="Typing SVG"/>
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- BADGES SOCIAUX -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-roger.nealix.org-1A56DB?style=for-the-badge&logoColor=white)](https://roger.nealix.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roger_Gnanih-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogergnanih)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-roger.nealix.org-F75709?style=for-the-badge&logoColor=white)](https://roger.nealix.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roger_Gnanih-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-gnanih-b14530242/)
+[![Facebook](https://img.shields.io/badge/Facebook-Roger_Gnanih-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roger.gnanih.7)
 [![Email](https://img.shields.io/badge/Gmail-rogergnanih66-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogergnanih66@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+229_01_54_53_50_35-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22901545350335)
 
 <br/>
 
-<!-- INDICATEURS CLÉS -->
-![Projects](https://img.shields.io/badge/🚀_Projets_en_production-12-F59E0B?style=flat-square)
-![Experience](https://img.shields.io/badge/💼_Clients_servis-6+-1A56DB?style=flat-square)
+![Projects](https://img.shields.io/badge/🚀_Projets_en_production-12-F75709?style=flat-square)
+![Clients](https://img.shields.io/badge/🤝_Clients_servis-6+-00d4ff?style=flat-square)
 ![Remote](https://img.shields.io/badge/🌍_Remote-Disponible-22C55E?style=flat-square)
-![Visitors](https://komarev.com/ghpvc/?username=rogerfarolix&label=Visites&color=1A56DB&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=rogerfarolix&label=Visites&color=F75709&style=flat-square)
 
 </div>
 
@@ -35,7 +32,7 @@
 ```typescript
 const roger: Developer = {
   nom          : "Roger Gnanih",
-  localisation : "Porto-Novo, Bénin 🇧🇯  -   GMT+1",
+  localisation : "Porto-Novo, Bénin 🇧🇯  —  GMT+1",
   tagline      : "Vos idées méritent mieux qu'un concept.",
   roles        : [
     "🔧 Fullstack Developer  —  Web · Mobile · API · Agents IA",
@@ -89,8 +86,8 @@ const roger: Developer = {
 
 **🛡️ Cybersécurité & 🤖 IA**
 
-![CSIRT](https://img.shields.io/badge/CSIRT_Analyst-DC2626?style=for-the-badge&logo=shield&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agents_IA-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![CSIRT](https://img.shields.io/badge/CSIRT_Analyst-F75709?style=for-the-badge&logo=shield&logoColor=white)
+![AI Agents](https://img.shields.io/badge/Agents_IA-00d4ff?style=for-the-badge&logo=openai&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
@@ -101,7 +98,7 @@ const roger: Developer = {
 
 <div align="center">
 
-> **12 projets livrés** · Web · SaaS · Mobile · Cybersécurité · IA · Afrique & Europe
+> **12 projets livrés** &nbsp;·&nbsp; Web &nbsp;·&nbsp; SaaS &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; Cybersécurité &nbsp;·&nbsp; IA &nbsp;·&nbsp; Afrique & Europe
 
 </div>
 
@@ -161,7 +158,7 @@ const roger: Developer = {
     <th>Lien</th>
   </tr>
   <tr>
-    <td><b>🎰 SauriBet</b></td>
+    <td><b>💸 SauriBet</b></td>
     <td>App Flutter — dépôts/retraits 1xBet via Mobile Money · Référence au Niger et au Bénin</td>
     <td><code>Flutter</code> <code>Dart</code> <code>Laravel</code> <code>Docker</code></td>
     <td><a href="https://sauribet.com">sauribet.com ↗</a></td>
@@ -238,20 +235,20 @@ const roger: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerfarolix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1A56DB&icon_color=F59E0B&text_color=c9d1d9&ring_color=1A56DB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerfarolix&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1A56DB&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerfarolix&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=F75709&icon_color=00d4ff&text_color=ffffff&ring_color=F75709"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerfarolix&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=F75709&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rogerfarolix&theme=tokyonight&hide_border=true&background=0d1117&stroke=1A56DB&ring=1A56DB&fire=F59E0B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6B7280&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com/?user=rogerfarolix&theme=dark&hide_border=true&background=0d0d0d&stroke=F75709&ring=F75709&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=808080&currStreakNum=F75709&sideNums=F75709"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogerfarolix&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1A56DB&line=1A56DB&point=F59E0B&area=true&area_color=1A56DB" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogerfarolix&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=F75709&line=F75709&point=00d4ff&area=true&area_color=F75709" width="100%"/>
 
 </div>
 
@@ -262,7 +259,7 @@ const roger: Developer = {
 <div align="center">
 
 | 📍 Localisation | 🕐 Timezone | 🌐 Disponibilité | 💳 Paiements |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | Porto-Novo, Bénin 🇧🇯 | GMT+1 | Remote · Monde entier ✅ | Wise · Payoneer · Mobile Money |
 
 </div>
@@ -274,19 +271,19 @@ const roger: Developer = {
 <div align="center">
 
 <a href="https://roger.nealix.org">
-  <img src="https://img.shields.io/badge/🌐_roger.nealix.org-1A56DB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_roger.nealix.org-F75709?style=for-the-badge&logoColor=white"/>
 </a>
 <a href="mailto:rogergnanih66@gmail.com">
-  <img src="https://img.shields.io/badge/📧_rogergnanih66@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/rogergnanih">
+<a href="https://www.linkedin.com/in/roger-gnanih-b14530242/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://wa.me/22901545350335">
-  <img src="https://img.shields.io/badge/WhatsApp-+229_01_54_53_50_35-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://facebook.com/rogergnanih">
+<a href="https://www.facebook.com/roger.gnanih.7">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://wa.me/22901545350335">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -294,5 +291,5 @@ const roger: Developer = {
 <br/>
 
 <a href="https://roger.nealix.org">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=footer&text=Vos+idées+méritent+mieux+qu'un+concept.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75709&height=120&section=footer&text=Vos+id%C3%A9es+m%C3%A9ritent+mieux+qu'un+concept.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </a>
