@@ -1,25 +1,26 @@
 <div align="center">
 
 <a href="https://roger.nealix.org">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75709&height=200&section=header&text=Roger%20Gnanih&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20%7C%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&color=F75709&height=210&section=header&text=Roger%20Gnanih&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Cybersecurity%20CSIRT%20%C2%B7%20AI%20Agents&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://roger.nealix.org">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75709&center=true&vCenter=true&width=750&lines=Je+d%C3%A9veloppe%2C+j'entreprends%2C+je+forme.;Fullstack+Dev+%E2%80%94+Remote+depuis+le+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF;Laravel+%C2%B7+Flutter+%C2%B7+Angular+%C2%B7+Kotlin;Cybers%C3%A9curit%C3%A9+CSIRT+%C2%B7+Agents+IA+%C2%B7+Mobile+Money" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75709&center=true&vCenter=true&width=760&lines=Je+d%C3%A9veloppe%2C+j'entreprends%2C+je+forme.;Fullstack+Dev+%E2%80%94+Remote+depuis+le+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF;Laravel+%C2%B7+Angular+%C2%B7+React+%C2%B7+Flutter+%C2%B7+Kotlin;Cybers%C3%A9curit%C3%A9+CSIRT+%C2%B7+Agents+IA+%C2%B7+Mobile+Money" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-roger.nealix.org-F75709?style=for-the-badge&logoColor=white)](https://roger.nealix.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roger_Gnanih-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-gnanih-b14530242/)
-[![Facebook](https://img.shields.io/badge/Facebook-Roger_Gnanih-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roger.gnanih.7)
-[![Email](https://img.shields.io/badge/Gmail-rogergnanih66-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogergnanih66@gmail.com)
+[![X](https://img.shields.io/badge/X-@GnanihRoger-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GnanihRoger)
+[![Telegram](https://img.shields.io/badge/Telegram-@farolixdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/farolixdev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+229_01_54_53_50_35-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290154535035)
+[![Email](https://img.shields.io/badge/Gmail-rogergnanih66-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogergnanih66@gmail.com)
 
 <br/>
 
-![Projects](https://img.shields.io/badge/🚀_Projets_en_production-12-F75709?style=flat-square)
-![Clients](https://img.shields.io/badge/🤝_Clients_servis-6+-00d4ff?style=flat-square)
+![Projects](https://img.shields.io/badge/🚀_Projets_livrés-14-F75709?style=flat-square)
+![Featured](https://img.shields.io/badge/⭐_Projets_vedette-8-00d4ff?style=flat-square)
 ![Remote](https://img.shields.io/badge/🌍_Remote-Disponible-22C55E?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=rogerfarolix&label=Visites&color=F75709&style=flat-square)
 
@@ -39,8 +40,8 @@ const roger: Developer = {
     "🛡️ Assistant Analyste CSIRT  —  Cybersécurité offensive & défensive",
     "🎓 Formateur  —  Développement & Remote Working",
   ],
-  stack        : ["Laravel", "Angular", "Flutter", "Kotlin", "Python", "Docker"],
-  clients      : ["CyberAfrik", "Rapides Services", "Studena", "Nealix", "PariPlus", "ESMATH-BÉNIN"],
+  stackCoeur   : ["Laravel", "Angular", "React", "Flutter", "Kotlin", "FastAPI", "Docker"],
+  clients      : ["Iservices", "Studena", "Rapides Services", "CyberAfrik", "Pal Africa", "ZooCloud", "Iwaju Tech"],
   paiements    : ["Wise", "Payoneer", "Mobile Money"],
   remote       : true,
   disponible   : true,
@@ -50,94 +51,160 @@ const roger: Developer = {
 
 <br/>
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
 
 <div align="center">
 
-**⚙️ Backend & API**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**🎨 Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**📱 Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**🐳 Infra & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**🛡️ Cybersécurité & 🤖 IA**
-
-![CSIRT](https://img.shields.io/badge/CSIRT_Analyst-F75709?style=for-the-badge&logo=shield&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agents_IA-00d4ff?style=for-the-badge&logo=openai&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140"><b>Backend & API</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Mobile</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" title="Android"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Bases de données</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" title="Redis"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Infra</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" title="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Agents IA & Auto.</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" title="OpenAI"/>
+<code>n8n</code> · <code>Claude API</code> · <code>Prompt Engineering</code>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Cybersécurité CSIRT</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" title="Kali Linux"/>
+<code>Audit</code> · <code>SOC</code> · <code>Pentest</code> · <code>Incident Response</code>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 🚀 Projets en Production
+## 🚀 Réalisations
 
 <div align="center">
 
-**12 projets livrés** &nbsp;·&nbsp; Web &nbsp;·&nbsp; SaaS &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; Cybersécurité &nbsp;·&nbsp; IA &nbsp;·&nbsp; Afrique & Europe
+**14 projets livrés** &nbsp;·&nbsp; **8 en vedette** &nbsp;·&nbsp; Web · SaaS · Mobile · Cybersécurité · IA &nbsp;·&nbsp; Afrique & Europe
+&nbsp;·&nbsp; [Voir tous les projets ↗](https://roger.nealix.org/portfolio)
 
 </div>
 
-### 🔐 Cybersécurité
+### ⭐ Projets en vedette
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| **🛡️ CSWT** | Plateforme complète — cartographie des risques, gestion des incidents, audit pour entreprises | `Laravel` `Angular` `Python` `PostgreSQL` `Docker` | [cswt.io ↗](https://cswt.io) |
-| **⚔️ Shield — CITE** | Plateforme d'entraînement cybersécurité avec environnements simulés d'attaque/défense | `HTML` `CSS` `JS` | [shield.cyberitxvle.com ↗](https://shield.cyberitxvle.com) |
+| **🛡️ CSWT** | Plateforme complète — cartographie des risques, gestion des incidents, audit pour entreprises | `Laravel` `Angular` `PHP` `PostgreSQL` `Docker` | [cswt.io ↗](https://cswt.io) |
+| **⚔️ Shield — CITE** | Plateforme d'entraînement cybersécurité, environnements simulés d'attaque/défense | `HTML` `CSS` `JS` | [shield.cyberitxvle.com ↗](https://shield.cyberitxvle.com) |
+| **💸 SauriBet** | App mobile — dépôts/retraits 1xBet via Mobile Money · Référence au Niger et au Bénin | `Laravel` `Flutter` `Dart` | [sauribet.com ↗](https://sauribet.com) |
+| **🎓 Studena** | SaaS de soutien scolaire — matching élèves/tuteurs par algorithme · France | `Laravel` `Flutter` `Angular` `PostgreSQL` | [studena.fr ↗](https://www.studena.fr) |
+| **📦 Rapides Services CRM** | CRM e-commerce — gestion stocks, ventes et livraisons pour partenaires | `Laravel` `Angular` `TypeScript` `PostgreSQL` | [rapides-services.com ↗](https://rapides-services.com) |
+| **🏫 ESMATH-BÉNIN** | Site institutionnel école supérieure — Tourisme, Hôtellerie & Management | `Laravel` `HTML` `CSS` | [esmathbenin.org ↗](https://www.esmathbenin.org) |
+| **🧩 Nealix** | Répertoire de solutions digitales — trouver le bon outil rapidement | `Laravel` `Alpine.js` | [nealix.org ↗](https://nealix.org) |
+| **🎬 Zed Florentin** | Portfolio monteur vidéo — mise en valeur de compétences et projets | `Laravel` `Alpine.js` | [zedflorentin.com ↗](https://zedflorentin.com) |
 
-### 🤖 Intelligence Artificielle
-
-| Projet | Description | Stack | Lien |
-|---|---|---|---|
-| **🖼️ Remova** | Suppression de fond d'image par IA (modèle Seg-v4) — résultat instantané en PNG transparent | `Laravel` `Python` `Docker` | [remova.nealix.org ↗](https://remova.nealix.org) |
-| **🍽️ Allô-Rapides** | Planification de repas intelligente par IA + commande d'ingrédients — marché béninois | `Laravel` `Angular` `IA` `Docker` `PostgreSQL` | [allo.rapides-services.com ↗](https://allo.rapides-services.com) |
-
-### 📱 Mobile & Paiements
-
-| Projet | Description | Stack | Lien |
-|---|---|---|---|
-| **💸 SauriBet** | App Flutter — dépôts/retraits 1xBet via Mobile Money · Référence au Niger et au Bénin | `Flutter` `Dart` `Laravel` `Docker` | [sauribet.com ↗](https://sauribet.com) |
-
-### 🏢 SaaS & Plateformes
+### 📁 Autres projets
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| **🎓 Studena** | Soutien scolaire — matching élèves/tuteurs par algorithme · France | `Laravel` `Flutter` `Angular` `Docker` `PostgreSQL` | [studena.fr ↗](https://www.studena.fr) |
-| **💼 FoliowFlow** | Portfolios professionnels sur mesure pour designers et devs | `Laravel` `PHP` `JS` `SEO` `CDN` | [portfolios.nealix.org ↗](https://portfolios.nealix.org) |
-| **📦 Rapides Services CRM** | CRM e-commerce — gestion stocks, ventes et livraisons pour partenaires | `Laravel` `Angular` `TypeScript` `Docker` `PostgreSQL` | [rapides-services.com ↗](https://rapides-services.com) |
+| **🖼️ Remova** | Suppression de fond d'image par IA (modèle Seg-v4) — export PNG transparent instantané | `Laravel` `Python` `PHP` | [remova.nealix.org ↗](https://remova.nealix.org) |
+| **🍽️ Allô-Rapides** | Planification de repas par IA + commande d'ingrédients — marché béninois | `Laravel` `Angular` `IA` | [allo.rapides-services.com ↗](https://allo.rapides-services.com) |
+| **💼 FoliowFlow** | SaaS de portfolios professionnels sur mesure pour designers et devs | `Laravel` `PHP` `JS` | [portfolios.nealix.org ↗](https://portfolios.nealix.org) |
+| **📚 CodeBox** | Mémoire technique collaborative — snippets et commandes pour développeurs | `Laravel` `PostgreSQL` `Bootstrap` | [codebox.nealix.org ↗](https://codebox.nealix.org) |
+| **🍴 Jean-Paul Gangny** | Portfolio restaurant — univers culinaire, services, réservations | `Laravel` | [jean-paul.nealix.org ↗](https://jean-paul.nealix.org) |
+| **🧑‍💻 Portfolio Roger** | Mon portfolio personnel — pensé pour démontrer mes compétences fullstack | `Laravel` `HTML` `CSS` | [roger.nealix.org ↗](https://roger.nealix.org) |
 
-### 🌐 Web Applications
+<br/>
 
-| Projet | Description | Stack | Lien |
-|---|---|---|---|
-| **📚 CodeBox** | Bibliothèque collaborative de snippets et commandes pour développeurs | `Laravel` `PostgreSQL` `Bootstrap` | [codebox.nealix.org ↗](https://codebox.nealix.org) |
-| **🏫 ESMATH-BÉNIN** | Site institutionnel école supérieure — Tourisme, Hôtellerie & Management | `Laravel` `Docker` `Git` | [esmathbenin.org ↗](https://www.esmathbenin.org) |
-| **🍴 Jean-Paul Gangny** | Portfolio restaurant — univers culinaire, services, réservations | `Laravel` `JS` | [jean-paul.nealix.org ↗](https://jean-paul.nealix.org) |
-| **🧑‍💻 Portfolio Roger** | Mon portfolio personnel — conçu pour démontrer mes compétences fullstack | `Laravel` `HTML` `CSS` `JS` | [roger.nealix.org ↗](https://roger.nealix.org) |
+## 🧭 Parcours
+
+```text
+2026 Jan → Mar   Iservices          · Fullstack (Laravel, Angular, React, Flutter) · déploiement VPS, CI/CD
+2025 Sep → Jan   Studena            · Plateforme éducative, quiz, paiement Mobile Money
+2025 Jul → Sep   Rapides Services   · CRM complet, API REST, frontend Angular
+2024 → 2025      CyberAfrik         · Web, infra VPS, CI/CD, monitoring cybersécurité
+2024 → 2025      Pal Africa         · Web, API REST, mobile Kotlin & Flutter
+2024             ZooCloud/Iwaju     · E-commerce PrestaShop, génération CV PDF, SonarQube
+```
+
+<div align="center">
+
+🎓 Licence Système Informatique & Logiciel — ESF École Supérieure Le Faucon (2021–2024)
+&nbsp;·&nbsp; [CV complet ↗](https://roger.nealix.org/assets/cv_roger_gnanih.pdf)
+
+</div>
+
+<br/>
+
+## 💬 Ce qu'ils disent
+
+> « Roger GNANIH maîtrise vraiment son domaine. Il a dépassé mes attentes sur mon portfolio. Je le recommande vivement. »
+> **— Zed Florentin**, Monteur Vidéo & Créateur de contenu
+
+> « Un portfolio très classe et très vendeur, je reçois plein de requêtes et de demandes de collaboration. »
+> **— Jean-Paul Gangny**, Restaurateur · PBLBOSS
+
+> « Très technique, malgré son jeune âge il a réalisé des designs exquis en un temps record. »
+> **— BIDO Ezeckiel**, CEO · CyberAfrik
+
+<div align="center">
+
+[Plus de témoignages ↗](https://roger.nealix.org/reviews)
+
+</div>
+
+<br/>
+
+## ✍️ Derniers articles
+
+- **[Maestro : le premier agent de codage IA 100 % écrit en PHP](https://roger.nealix.org/blog/maestro-le-premier-agent-de-codage-ia-100-ecrit-en-php)** — 23 juil. 2026
+- **[WordPress wp2shell : la faille RCE critique qui a forcé une mise à jour d'urgence](https://roger.nealix.org/blog/wordpress-wp2shell-la-faille-rce-critique-qui-a-force-une-mise-a-jour-durgence)** — 19 juil. 2026
+- **[Ruflo : orchestrez des agents IA sur votre propre serveur](https://roger.nealix.org/blog/ruflo-orchestrez-des-agents-ia-sur-votre-propre-serveur-sans-payer-dapi)** — 04 mai 2026
+
+<div align="center">
+
+[Tous les articles ↗](https://roger.nealix.org/blog)
+
+</div>
 
 <br/>
 
@@ -172,26 +239,19 @@ const roger: Developer = {
 
 <div align="center">
 
-<a href="https://roger.nealix.org">
-  <img src="https://img.shields.io/badge/🌐_roger.nealix.org-F75709?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="mailto:rogergnanih66@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/roger-gnanih-b14530242/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/roger.gnanih.7">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://wa.me/2290154535035">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<a href="https://roger.nealix.org"><img src="https://img.shields.io/badge/🌐_roger.nealix.org-F75709?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:rogergnanih66@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/roger-gnanih-b14530242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/GnanihRoger"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/roger_gnh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/roger.gnanih.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://t.me/farolixdev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://wa.me/2290154535035"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
 <a href="https://roger.nealix.org">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75709&height=120&section=footer&text=Vos+id%C3%A9es+m%C3%A9ritent+mieux+qu'un+concept.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&color=F75709&height=120&section=footer&text=Vos+id%C3%A9es+m%C3%A9ritent+mieux+qu'un+concept.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </a>
